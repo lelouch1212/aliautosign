@@ -30,7 +30,7 @@ jobs:
 
           PUSH_TYPES: ''
 
-          DO_NOT_REWARD: 'false'
+          DO_NOT_REWARD: 'true'
 
           SERVERCHAN_SEND_KEY: ${{ secrets.SERVERCHAN_SEND_KEY }}
 
